@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2c53a3-c84e-4948-8dd9-43c04ef704fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/EvenOrOdd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/ReturnNegative.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codewars/META-INF/codewars.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codewars/META-INF/codewars.kotlin_module" afterDir="false" />
     </list>
@@ -15,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -36,7 +37,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.eightkyu.EvenOrOddKt">
+  <component name="RunManager" selected="Kotlin.eightkyu.ReturnNegativeKt">
     <configuration name="EightkyuEvenOrOddKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="VM_PARAMETERS" />
@@ -76,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="eightkyu.ReturnNegativeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.ReturnNegativeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="eightkyu.SumOfPostiveKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="VM_PARAMETERS" />
@@ -91,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.eightkyu.ReturnNegativeKt" />
         <item itemvalue="Kotlin.eightkyu.EvenOrOddKt" />
         <item itemvalue="Kotlin.eightkyu.SumOfPostiveKt" />
         <item itemvalue="Kotlin.EightkyuSumOfPositiveKt" />
@@ -112,26 +127,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1681808894238">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1681809449765">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="278" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681808894238" />
-    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1681808894238">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681809449765" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1681809449765">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="278" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681808894238" />
-    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1681808894238">
+    <state width="914" height="278" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681809449765" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1681809449765">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="278" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681808894238" />
-    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1681808894238">
+    <state width="914" height="278" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681809449765" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1681809449765">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="278" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681808894238" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681809449765" />
     <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1681807937462">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
