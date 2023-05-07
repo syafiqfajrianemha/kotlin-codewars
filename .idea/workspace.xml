@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2c53a3-c84e-4948-8dd9-43c04ef704fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/GrasshopperSummation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/RemoveStringSpaces.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.GrasshopperSummationKt">
+  <component name="RunManager" selected="Application.RemoveStringSpacesKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -64,14 +64,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eightkyu.OppositeNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveStringSpacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="eightkyu.OppositeNumberKt" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.RemoveStringSpacesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveStringSpacesKt" />
         <item itemvalue="Application.GrasshopperSummationKt" />
       </list>
     </recent_temporary>
@@ -133,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681601893061</updated>
-      <workItem from="1683468863687" duration="337000" />
+      <workItem from="1683468863687" duration="2056000" />
     </task>
     <servers />
   </component>
@@ -150,35 +151,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="914" height="277" key="GridCell.Tab.0.bottom" timestamp="1682830960021">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="277" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682830960021" />
-    <state width="914" height="277" key="GridCell.Tab.0.center" timestamp="1682830960021">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="277" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682830960021" />
-    <state width="914" height="277" key="GridCell.Tab.0.left" timestamp="1682830960020">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="277" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682830960020" />
-    <state width="914" height="277" key="GridCell.Tab.0.right" timestamp="1682830960021">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681603726435" />
-    <state width="914" height="277" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682830960021" />
-    <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1682718559271">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="656" y="340" key="com.intellij.ide.util.TipDialog/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1682718559271" />
-    <state x="0" y="244" key="new project wizard" timestamp="1681810751391">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="0" y="244" key="new project wizard/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681810751391" />
   </component>
 </project>
