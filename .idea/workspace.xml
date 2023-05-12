@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2c53a3-c84e-4948-8dd9-43c04ef704fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/RemoveStringSpaces.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/FindTheSmallestIntegerInTheArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.RemoveStringSpacesKt">
+  <component name="RunManager" selected="Application.FindTheSmallestIntegerInTheArrayKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -47,6 +47,19 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheSmallestIntegerInTheArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.FindTheSmallestIntegerInTheArrayKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,19 +85,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="eightkyu.RemoveStringSpacesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="eightkyu.RemoveFirstAndLastCharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="eightkyu.RemoveFirstAndLastCharacterKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheSmallestIntegerInTheArrayKt" />
         <item itemvalue="Application.RemoveStringSpacesKt" />
         <item itemvalue="Application.GrasshopperSummationKt" />
       </list>
@@ -134,7 +135,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681601893061</updated>
-      <workItem from="1683468863687" duration="2056000" />
+      <workItem from="1683468863687" duration="2289000" />
+      <workItem from="1683514657127" duration="316000" />
+      <workItem from="1683874657523" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -151,5 +154,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
