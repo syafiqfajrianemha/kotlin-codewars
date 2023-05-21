@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2c53a3-c84e-4948-8dd9-43c04ef704fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eightkyu/KeepHydrated.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eightkyu/CenturyFromYear.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +35,34 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.KeepHydratedKt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CenturyFromYearKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CenturyFromYearKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="eightkyu.CenturyFromYearKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,19 +88,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="eightkyu.FindTheSmallestIntegerInTheArrayKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GrasshopperSummationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="codewars" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="eightkyu.GrasshopperSummationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CenturyFromYearKt" />
         <item itemvalue="Application.KeepHydratedKt" />
         <item itemvalue="Application.EvenOrOddKt" />
         <item itemvalue="Application.FindTheSmallestIntegerInTheArrayKt" />
         <item itemvalue="Application.RemoveStringSpacesKt" />
-        <item itemvalue="Application.GrasshopperSummationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,8 @@
       <workItem from="1683514657127" duration="316000" />
       <workItem from="1683874657523" duration="3126000" />
       <workItem from="1683944528820" duration="604000" />
-      <workItem from="1684413531177" duration="1410000" />
+      <workItem from="1684413531177" duration="1513000" />
+      <workItem from="1684683438374" duration="2475000" />
     </task>
     <servers />
   </component>
